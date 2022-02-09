@@ -1,6 +1,6 @@
 version: "2"
 services:
-  sgrf:
+  app:
     build: .
     ports:
       - "8081:80"
